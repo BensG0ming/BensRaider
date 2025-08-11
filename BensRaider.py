@@ -3,7 +3,7 @@
 # terms under the GNU Affero General Public License (AGPL) v3.0.
 #
 # Author: BensG0ming
-# Original Repository: https://github.com/BensG0ming/BensRaider
+# Original Repository: https://github.com/Tips-Discord/Cwelium/
 
 from colorama import Fore, init; init(autoreset=True)
 from colorist import ColorHex as h
@@ -1753,3 +1753,4 @@ class Menu:
 
 if __name__ == "__main__":
     Menu().main_menu()
+
